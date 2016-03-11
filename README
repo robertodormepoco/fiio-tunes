@@ -1,0 +1,13 @@
+FiiOTunes
+=========
+
+let's keep your mp3 player in a sane state
+
+Goals
+=====
+
+1) no dups
+2) sane id3 tags
+3) sync with local/remote filesystems
+4) support for flac files
+5) daemon (dock-like with raspberry pi) or desktop version
